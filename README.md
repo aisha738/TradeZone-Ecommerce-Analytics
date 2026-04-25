@@ -31,7 +31,3 @@ This project involves a comprehensive data analysis for **TradeZone**, a fast-gr
 * Addressed 124 orders with price discrepancies and 150 orders missing total amounts by recalculating values from line items to ensure financial accuracy.
 * Standardized city names and normalized product categories to title case for cleaner reporting.
 * Flagged orders where the total amount and line item sums differed by more than 10 Naira to maintain data integrity.
-
-## Future Work
-* Integrate Customer Support and Churn data to perform root-cause analysis on retention drops.
-* Develop a predictive model to identify high-potential customers in lagging regions like Kano and Oyo.
